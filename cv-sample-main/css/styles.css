@@ -1,0 +1,12 @@
+
+body {
+  background-color: #f3f0d7;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+a:hover{
+  background-color: gold;
+}
